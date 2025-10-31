@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Japan Adventure 🇯🇵</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Theme Toggle Button -->
+    <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">
+        <span class="theme-icon">🌙</span>
+    </button>
+
+    <!-- Navigation -->
+    <nav class="nav" id="mainNav">
+        <div class="nav-container">
+            <div class="nav-brand">🇯🇵 Japan 2025</div>
+            <ul class="nav-links">
+                <li><a href="#hero" class="nav-link active">Overview</a></li>
+                <li><a href="#day-by-day" class="nav-link">Day-by-Day</a></li>
+                <li><a href="#tips" class="nav-link">Tips</a></li>
+                <li><a href="#checklist" class="nav-link">Checklist</a></li>
+            </ul>
+        </div>
+        <div class="nav-progress" id="navProgress"></div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+        <div class="hero-background">
+            <div class="sakura-container" id="sakuraContainer"></div>
+        </div>
+        <div class="hero-content">
+            <h1 class="hero-title animate-fade-in">Our Japan Adventure 🇯🇵</h1>
+            <p class="hero-subtitle animate-fade-in-delay">Tokyo → Osaka → Kyoto → Tokyo</p>
+            <p class="hero-dates animate-fade-in-delay-2">November 5-14, 2025</p>
+            <div class="hero-stats animate-fade-in-delay-3">
+                <div class="stat-item">
+                    <div class="stat-number">10</div>
+                    <div class="stat-label">Days</div>
+                </div>
+                <div class="stat-divider">|</div>
+                <div class="stat-item">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Cities</div>
+                </div>
+                <div class="stat-divider">|</div>
+                <div class="stat-item">
+                    <div class="stat-number">48+</div>
+                    <div class="stat-label">Attractions</div>
+                </div>
+            </div>
+            <div class="countdown-container animate-fade-in-delay-4">
+                <div class="countdown-label">Departure in:</div>
+                <div class="countdown" id="countdown">Loading...</div>
+            </div>
+            <button class="btn btn--primary btn--lg hero-cta animate-fade-in-delay-5" onclick="smoothScroll('#overview')">
+                Start Planning ✨
+            </button>
+        </div>
+    </section>
+
+    <!-- Overview Section -->
+    <section class="section" id="overview">
+        <div class="container">
+            <h2 class="section-title">🗺️ Journey Overview</h2>
+            
+            <div class="route-map">
+                <div class="route-line"></div>
+                <div class="route-stops">
+                    <div class="route-stop">
+                        <div class="route-stop-icon">🗼</div>
+                        <div class="route-stop-label">Tokyo</div>
+                    </div>
+                    <div class="route-stop">
+                        <div class="route-stop-icon">🚄</div>
+                        <div class="route-stop-label">Shinkansen</div>
+                    </div>
+                    <div class="route-stop">
+                        <div class="route-stop-icon">🏯</div>
+                        <div class="route-stop-label">Osaka</div>
+                    </div>
+                    <div class="route-stop">
+                        <div class="route-stop-icon">⛩️</div>
+                        <div class="route-stop-label">Kyoto</div>
+                    </div>
+                    <div class="route-stop">
+                        <div class="route-stop-icon">🗼</div>
+                        <div class="route-stop-label">Tokyo</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="accommodation-grid">
+                <div class="accommodation-card">
+                    <div class="accommodation-header">
+                        <h3>🏠 Suginami-ku, Tokyo</h3>
+                        <span class="accommodation-badge">4 nights</span>
+                    </div>
+                    <p class="accommodation-dates">November 5-8, 2025</p>
+                    <p class="accommodation-transport">🚆 From Narita: JR Narita Express to Tokyo Station → Chūō Line to Asagaya/Koenji (1h 23min)</p>
+                </div>
+                
+                <div class="accommodation-card">
+                    <div class="accommodation-header">
+                        <h3>🏨 Chuo-ku, Osaka</h3>
+                        <span class="accommodation-badge">5 nights</span>
+                    </div>
+                    <p class="accommodation-dates">November 9-13, 2025</p>
+                    <p class="accommodation-transport">🚄 Shinkansen from Tokyo to Shin-Osaka (2h 30min)</p>
+                </div>
+                
+                <div class="accommodation-card">
+                    <div class="accommodation-header">
+                        <h3>🌃 Tokyo (near Shinjuku)</h3>
+                        <span class="accommodation-badge">1 night</span>
+                    </div>
+                    <p class="accommodation-dates">November 14, 2025</p>
+                    <p class="accommodation-transport">🚄 Shinkansen from Osaka to Tokyo (2h 30min)</p>
+                </div>
+            </div>
+
+            <div class="weather-currency-grid">
+                <div class="info-card">
+                    <h3>🌤️ Weather</h3>
+                    <p class="weather-temp">10-18°C</p>
+                    <p>Mostly sunny with occasional rain. Perfect autumn weather!</p>
+                </div>
+                
+                <div class="info-card">
+                    <h3>💱 Currency Converter</h3>
+                    <div class="currency-converter">
+                        <input type="number" id="gbpInput" placeholder="GBP" value="100">
+                        <span class="currency-arrow">→</span>
+                        <input type="text" id="jpyOutput" placeholder="JPY" readonly>
+                    </div>
+                    <p class="currency-note">1 GBP ≈ 193 JPY</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Day-by-Day Section -->
+    <section class="section section-alt" id="day-by-day">
+        <div class="container">
+            <h2 class="section-title">📅 Day-by-Day Itinerary</h2>
+            
+            <div class="day-navigation">
+                <button class="day-nav-btn" id="prevDay" disabled>← Previous</button>
+                <span class="day-counter" id="dayCounter">Day 1 of 10</span>
+                <button class="day-nav-btn" id="nextDay">Next →</button>
+            </div>
+
+            <div class="days-carousel" id="daysCarousel">
+                <!-- Day cards will be dynamically generated -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Tips Section -->
+    <section class="section" id="tips">
+        <div class="container">
+            <h2 class="section-title">💡 Tips &amp; Tricks</h2>
+            
+            <div class="accordion">
+                <div class="accordion-item">
+                    <button class="accordion-header">
+                        <span>🚆 Travel Tips</span>
+                        <span class="accordion-icon">+</span>
+                    </button>
+                    <div class="accordion-content">
+                        <ul class="tips-list">
+                            <li>Get a JR Pass - covers Narita Express and all shinkansen trips</li>
+                            <li>teamLab Biovortex tickets already booked for Nov 11!</li>
+                            <li>Download Google Maps offline and IC card apps</li>
+                            <li>Autumn foliage peak in early November - perfect timing!</li>
+                            <li>Most places accept cards, but carry cash for street food</li>
+                            <li>Suginami &amp; Chuo-ku both have excellent transit access</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <button class="accordion-header">
+                        <span>🎒 Packing Essentials</span>
+                        <span class="accordion-icon">+</span>
+                    </button>
+                    <div class="accordion-content">
+                        <ul class="tips-list">
+                            <li>Comfortable walking shoes (15,000+ steps daily)</li>
+                            <li>Portable charger and adapters</li>
+                            <li>Light jacket for November (10-18°C)</li>
+                            <li>Reusable water bottle</li>
+                            <li>Small daypack for daily trips</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <button class="accordion-header">
+                        <span>🗣️ Quick Japanese Phrases</span>
+                        <span class="accordion-icon">+</span>
+                    </button>
+                    <div class="accordion-content">
+                        <ul class="tips-list">
+                            <li><strong>Arigatou gozaimasu</strong> - Thank you very much</li>
+                            <li><strong>Sumimasen</strong> - Excuse me / Sorry</li>
+                            <li><strong>Eigo wa hanasemasu ka?</strong> - Do you speak English?</li>
+                            <li><strong>Ikura desu ka?</strong> - How much is it?</li>
+                            <li><strong>Oishii!</strong> - Delicious!</li>
+                            <li><strong>Kampai!</strong> - Cheers!</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <button class="accordion-header">
+                        <span>💴 Money &amp; Payment</span>
+                        <span class="accordion-icon">+</span>
+                    </button>
+                    <div class="accordion-content">
+                        <ul class="tips-list">
+                            <li>Withdraw cash from 7-Eleven ATMs (accept foreign cards)</li>
+                            <li>IC cards (Suica/Pasmo) work for trains, buses, and convenience stores</li>
+                            <li>Many restaurants are cash-only, especially smaller ones</li>
+                            <li>No tipping culture in Japan</li>
+                            <li>Keep coins for vending machines and lockers</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Checklist Section -->
+    <section class="section section-alt" id="checklist">
+        <div class="container">
+            <h2 class="section-title">✅ Pre-Trip Checklist</h2>
+            
+            <div class="progress-bar-container">
+                <div class="progress-bar">
+                    <div class="progress-bar-fill" id="checklistProgress"></div>
+                </div>
+                <p class="progress-text" id="progressText">1 of 7 completed</p>
+            </div>
+
+            <div class="checklist" id="checklistContainer">
+                <!-- Checklist items will be dynamically generated -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <h3 class="footer-title">Ready for the adventure of a lifetime! 🎌</h3>
+            <p class="footer-subtitle">Let's make unforgettable memories together ❤️</p>
+            <div class="footer-icons">
+                <span class="footer-icon">🗼</span>
+                <span class="footer-icon">🏯</span>
+                <span class="footer-icon">⛩️</span>
+                <span class="footer-icon">🚄</span>
+                <span class="footer-icon">🍣</span>
+                <span class="footer-icon">🌸</span>
+            </div>
+            <button class="btn btn--outline" onclick="shareTrip()">📤 Share This Adventure</button>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
