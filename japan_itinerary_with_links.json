@@ -1,0 +1,742 @@
+{
+  "trip_info": {
+    "title": "Our Japan Adventure",
+    "subtitle": "Tokyo → Osaka → Kyoto → Tokyo (Reddit-Optimized with Links)",
+    "dates": "November 5-14, 2025",
+    "total_days": 10,
+    "travelers": 2,
+    "philosophy": "Quality over quantity. 1-2 planned activities per day + spontaneous exploration"
+  },
+  "reddit_tips": {
+    "immediate_actions": [
+      "Download Navitime, Google Translate, Google Lens before landing",
+      "Get portable charger - CRITICAL!",
+      "Book Shibuya Sky tickets NOW (not day-of)",
+      "Book Kaiyukan Aquarium tickets NOW",
+      "Activate eSIM or pocket WiFi before landing"
+    ],
+    "first_30_minutes_at_narita": [
+      "Get Suica IC card (¥2,000-3,000)",
+      "Buy coin purse",
+      "Test phone card/WiFi"
+    ],
+    "daily_philosophy": [
+      "Try new places, don't repeat restaurants",
+      "1-2 planned activities max, leave rest loose",
+      "Carry small plastic bag for trash (cans are rare)",
+      "Use Navitime for trains, not Google Maps",
+      "Explore neighborhoods slowly, talk to locals"
+    ]
+  },
+  "days": [
+    {
+      "date": "Nov 5",
+      "day": 1,
+      "title": "Arrival & Suginami Settling In",
+      "location": "Tokyo (Suginami-ku)",
+      "emoji": "✈️",
+      "must_do": 1,
+      "highlights": [
+        {
+          "name": "Narita Airport",
+          "url": "https://www.narita-airport.jp/en/"
+        },
+        {
+          "name": "Suginami-ku",
+          "url": "https://www.city.tokyo.lg.jp/contents/wdu020/suginami/index.html"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Get IC card (Suica)",
+          "url": "https://www.suica.or.jp/"
+        },
+        {
+          "name": "Settle into hotel",
+          "url": "https://www.booking.com/searchresults.html?ss=Suginami-ku"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Omiya Hachiman Shrine",
+          "url": "https://www.omiya-hachiman.or.jp/"
+        },
+        {
+          "name": "Wadabori Park",
+          "url": "https://www.city.tokyo.lg.jp/suginami/kanko/spot/wadabori.html"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "7-Eleven or Family Mart (convenience store)",
+          "url": "https://www.seven-eleven.co.jp/"
+        },
+        {
+          "name": "Local izakaya near Koenji Station",
+          "url": "https://tabelog.com/tokyo/A1320/A132004/"
+        }
+      ],
+      "transport_tips": "JR Narita Express + Chūō Line (1h 23min)",
+      "reddit_note": "Don't overschedule on arrival day - jet lag is real!",
+      "activities": "Rest, explore neighborhood on foot, get money from ATM"
+    },
+    {
+      "date": "Nov 6",
+      "day": 2,
+      "title": "Koenji's Bohemian Vibes",
+      "location": "Tokyo (Suginami-ku)",
+      "emoji": "🎸",
+      "must_do": 1,
+      "highlights": [
+        {
+          "name": "Koenji Junjo Shopping Street",
+          "url": "https://www.koenji-shotengai.jp/"
+        },
+        {
+          "name": "Vintage boutiques",
+          "url": "https://tabelog.com/tokyo/A1320/A132004/R7814/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Koenji Junjo Shopping Street",
+          "url": "https://www.koenji-shotengai.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Local ramen shops in Koenji",
+          "url": "https://tabelog.com/tokyo/A1320/A132004/"
+        },
+        {
+          "name": "Vintage record stores",
+          "url": "https://www.google.com/maps/search/vintage+record+store+koenji+tokyo"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Koenji street food vendors",
+          "url": "https://tabelog.com/tokyo/A1320/A132004/"
+        }
+      ],
+      "transport_tips": "Walk or bike around Koenji - everything is close",
+      "reddit_note": "Try new places rather than return visits. This is reddit's #1 tip!",
+      "activities": "Just exist in neighborhood, observe locals, take photos, get lost"
+    },
+    {
+      "date": "Nov 7",
+      "day": 3,
+      "title": "Meiji Jingu & Tsukiji Feast",
+      "location": "Tokyo",
+      "emoji": "⛩️",
+      "must_do": 1,
+      "highlights": [
+        {
+          "name": "Meiji Jingu Shrine",
+          "url": "https://www.meijijingu.or.jp/"
+        },
+        {
+          "name": "Tsukiji Outer Market",
+          "url": "https://www.tsukiji.or.jp/"
+        },
+        {
+          "name": "Yanaka Ginza",
+          "url": "https://www.yanakaginza.com/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Meiji Jingu Shrine",
+          "url": "https://www.meijijingu.or.jp/"
+        },
+        {
+          "name": "Tsukiji fresh seafood market",
+          "url": "https://www.tsukiji.or.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Yanaka Ginza Yūyake Dandan",
+          "url": "https://www.city.arakawa.tokyo.jp/a022/shisetsu/kankouspot/nippori010.html"
+        },
+        {
+          "name": "Rikugien Garden",
+          "url": "https://www.tokyo-park.or.jp/park/rikugien/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Tsukiji fresh sushi counters",
+          "url": "https://tabelog.com/tokyo/A1304/A130411/"
+        },
+        {
+          "name": "Nakamise street food",
+          "url": "https://www.google.com/maps/place/Nakamise/"
+        }
+      ],
+      "transport_tips": "Chūō Line to Tokyo, transfer to Ginza Line for Asakusa",
+      "reddit_note": "SKIP Sensoji - too crowded and underwhelming. Meiji Jingu is much better.",
+      "activities": "Early morning market exploration (6-7am), shrine walk, neighborhood strolling"
+    },
+    {
+      "date": "Nov 8",
+      "day": 4,
+      "title": "Gardens & Sky Views",
+      "location": "Tokyo",
+      "emoji": "🌸",
+      "must_do": 1,
+      "highlights": [
+        {
+          "name": "Shinjuku Gyoen National Garden",
+          "url": "https://www.env.go.jp/garden/shinjukugyoen/"
+        },
+        {
+          "name": "Shibuya Sky",
+          "url": "https://www.shibuya-sky.jp/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Shinjuku Gyoen National Garden",
+          "url": "https://www.env.go.jp/garden/shinjukugyoen/"
+        },
+        {
+          "name": "Shibuya Sky",
+          "url": "https://www.shibuya-sky.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Meiji Jingu Gyoen (iris garden)",
+          "url": "https://www.meijijingu.or.jp/"
+        },
+        {
+          "name": "Quiet tea room in garden",
+          "url": "https://tabelog.com/tokyo/A1304/A130403/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Cafe in Shinjuku Gyoen",
+          "url": "https://www.env.go.jp/garden/shinjukugyoen/"
+        }
+      ],
+      "transport_tips": "Book Shibuya Sky tickets in advance!",
+      "reddit_note": "Skip multiple observation decks. Pick ONE. Golden hour (5-6pm) is best.",
+      "activities": "Garden walks early morning or late afternoon for best light"
+    },
+    {
+      "date": "Nov 9",
+      "day": 5,
+      "title": "Kamakura Day-Trip Adventure",
+      "location": "Kamakura (Day-trip from Tokyo)",
+      "emoji": "🏯",
+      "must_do": 1,
+      "highlights": [
+        {
+          "name": "Tsurugaoka Hachimangu Shrine",
+          "url": "https://www.tsurugaoka-hachimangu.jp/"
+        },
+        {
+          "name": "Komachi-dori Shopping Street",
+          "url": "https://www.kamakura-info.jp/"
+        },
+        {
+          "name": "Great Buddha (Daibutsu)",
+          "url": "https://www.kotoku-in.jp/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Tsurugaoka Hachimangu",
+          "url": "https://www.tsurugaoka-hachimangu.jp/"
+        },
+        {
+          "name": "Great Buddha",
+          "url": "https://www.kotoku-in.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Komachi-dori artisan stalls",
+          "url": "https://tabelog.com/kanagawa/A1404/A140401/"
+        },
+        {
+          "name": "Gunkakudo cave temples",
+          "url": "https://www.kamakura-info.jp/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Kamakura local restaurants",
+          "url": "https://tabelog.com/kanagawa/A1404/A140401/"
+        },
+        {
+          "name": "Ramen in Kamakura",
+          "url": "https://tabelog.com/kanagawa/A1404/A140401/"
+        }
+      ],
+      "transport_tips": "JR Shōnan-Shinjuku Line from Tokyo Station (60 min)",
+      "reddit_note": "Reddit community loves day-trips to coastal towns for fresh energy",
+      "activities": "Shrine walk, shopping street browsing, temple exploration"
+    },
+    {
+      "date": "Nov 10",
+      "day": 6,
+      "title": "Hakone Mountain Escape",
+      "location": "Hakone (Day-trip from Tokyo)",
+      "emoji": "⛰️",
+      "must_do": 1,
+      "highlights": [
+        {
+          "name": "Hakone Ropeway & Mt. Fuji views",
+          "url": "https://www.hakoneropeway.com/"
+        },
+        {
+          "name": "Lake Ashi Pirate Ship",
+          "url": "https://www.hakone-ashinoko.com/"
+        },
+        {
+          "name": "Hot spring (Onsen)",
+          "url": "https://www.hakone.or.jp/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Lake Ashi Pirate Ship Cruise",
+          "url": "https://www.hakone-ashinoko.com/"
+        },
+        {
+          "name": "Mt. Fuji views",
+          "url": "https://www.hakone.or.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Hakone Open-Air Museum",
+          "url": "https://www.hakone-oam.or.jp/en/"
+        },
+        {
+          "name": "Onsen bath experience",
+          "url": "https://www.hakone.or.jp/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Hakone kaiseki dinner",
+          "url": "https://tabelog.com/kanagawa/A1410/"
+        },
+        {
+          "name": "Local soba restaurants",
+          "url": "https://tabelog.com/kanagawa/A1410/"
+        }
+      ],
+      "transport_tips": "Romancecar from Shinjuku (90 min scenic train)",
+      "reddit_note": "Perfect balance of nature and relaxation - highly recommended by r/JapanTravel",
+      "activities": "Mt. Fuji viewing, lake cruise, onsen bath, nature walks"
+    },
+    {
+      "date": "Nov 11",
+      "day": 7,
+      "title": "Shinkansen to Osaka & Chuo-ku Arrival",
+      "location": "Tokyo → Osaka (Chuo-ku)",
+      "emoji": "🚄",
+      "must_do": 0,
+      "highlights": [
+        {
+          "name": "Tokyo Station",
+          "url": "https://www.tokyostation.com/"
+        },
+        {
+          "name": "Tōkaidō Shinkansen",
+          "url": "https://www.jr-central.co.jp/"
+        },
+        {
+          "name": "Shin-Osaka Station",
+          "url": "https://www.osakastationcity.com/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Shinkansen experience",
+          "url": "https://www.jr-central.co.jp/"
+        },
+        {
+          "name": "ICOCA Card for Osaka",
+          "url": "https://www.icoca.or.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Train station views",
+          "url": "https://www.tokyostation.com/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Convenience store snacks for train",
+          "url": "https://www.seven-eleven.co.jp/"
+        }
+      ],
+      "transport_tips": "Tōkaidō Shinkansen Hikari (2h 30min)",
+      "reddit_note": "Travel days are rest days. Enjoy the scenic ride!",
+      "activities": "Sleep on train, read, relax. Enjoy Japanese countryside views."
+    },
+    {
+      "date": "Nov 12",
+      "day": 8,
+      "title": "✨ KYOTO teamLab Day Trip ✨",
+      "location": "Kyoto Day Trip from Osaka",
+      "emoji": "🎨",
+      "must_do": 1,
+      "special": "BOOKED",
+      "highlights": [
+        {
+          "name": "teamLab Biovortex Kyoto",
+          "url": "https://www.teamlab.art/e/kyoto/"
+        },
+        {
+          "name": "Arashiyama Bamboo Grove",
+          "url": "https://www.kyoto.travel/en/things-to-do/arashiyama-bamboo-grove"
+        },
+        {
+          "name": "Fushimi Inari Taisha",
+          "url": "https://inari.fushimi.kyoto.jp/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "teamLab Biovortex Kyoto (BOOKED!)",
+          "url": "https://www.teamlab.art/e/kyoto/"
+        },
+        {
+          "name": "Arashiyama Bamboo Grove",
+          "url": "https://www.kyoto.travel/en/things-to-do/arashiyama-bamboo-grove"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Arashiyama quieter paths",
+          "url": "https://www.kyoto.travel/en/things-to-do/arashiyama-bamboo-grove"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Kyoto kaiseki lunch",
+          "url": "https://tabelog.com/kyoto/"
+        },
+        {
+          "name": "Tea at temple",
+          "url": "https://www.kyoto.travel/"
+        }
+      ],
+      "transport_tips": "7:00am Shinkansen to Kyoto (15 min), teamLab 7 min walk from station",
+      "reddit_note": "THIS DAY IS PACKED! Focus on teamLab quality. Don't try to do everything.",
+      "activities": "teamLab immersion (2-3 hours), ONE temple, then train back"
+    },
+    {
+      "date": "Nov 13",
+      "day": 9,
+      "title": "Osaka Castle & Nara Day-Trip",
+      "location": "Osaka & Nara",
+      "emoji": "🏯",
+      "must_do": 1,
+      "highlights": [
+        {
+          "name": "Osaka Castle",
+          "url": "https://www.osakacastle.net/"
+        },
+        {
+          "name": "Osaka Castle Park",
+          "url": "https://osakacastlepark.jp/"
+        },
+        {
+          "name": "Tōdai-ji Temple (Nara)",
+          "url": "https://www.todai-ji.org/"
+        },
+        {
+          "name": "Nara Park",
+          "url": "https://nara-park.com/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Osaka Castle",
+          "url": "https://www.osakacastle.net/"
+        },
+        {
+          "name": "Tōdai-ji Buddha (Nara)",
+          "url": "https://www.todai-ji.org/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Nara deer park exploration",
+          "url": "https://nara-park.com/"
+        },
+        {
+          "name": "Kasuga Taisha Shrine",
+          "url": "https://www.kasuga.or.jp/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Osaka okonomiyaki",
+          "url": "https://tabelog.com/osaka/A2701/A270106/"
+        },
+        {
+          "name": "Nara local cuisine",
+          "url": "https://tabelog.com/nara/"
+        }
+      ],
+      "transport_tips": "Kintetsu Line to Nara (40 min from Osaka)",
+      "reddit_note": "Nara is a must-see for deer encounters and Great Buddha experience",
+      "activities": "Castle museum exploration, Nara park deer interaction, temple visits"
+    },
+    {
+      "date": "Nov 14",
+      "day": 10,
+      "title": "Kuromon Market & Himeji Castle",
+      "location": "Osaka & Himeji",
+      "emoji": "🦢",
+      "must_do": 1,
+      "highlights": [
+        {
+          "name": "Kuromon Market",
+          "url": "https://kuromon.com/jp/"
+        },
+        {
+          "name": "Himeji Castle",
+          "url": "http://www.himejicastle.jp/"
+        },
+        {
+          "name": "Kōko-en Garden",
+          "url": "https://www.himeji-machishin.jp/kokoen/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Kuromon Market (8-9am!)",
+          "url": "https://kuromon.com/jp/"
+        },
+        {
+          "name": "Himeji Castle",
+          "url": "http://www.himejicastle.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Kōko-en Garden",
+          "url": "https://www.himeji-machishin.jp/kokoen/"
+        },
+        {
+          "name": "Himeji Castle moat walk",
+          "url": "http://www.himejicastle.jp/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Kuromon market seafood stalls",
+          "url": "https://kuromon.com/jp/"
+        },
+        {
+          "name": "Himeji local restaurants",
+          "url": "https://tabelog.com/hyogo/A2801/"
+        }
+      ],
+      "transport_tips": "JR train to Himeji (60 min from Osaka)",
+      "reddit_note": "Himeji is Japan's most iconic castle - absolutely worth the day-trip",
+      "activities": "Market food sampling (5+ stalls), castle exploration, garden walks"
+    },
+    {
+      "date": "Nov 15",
+      "day": 11,
+      "title": "Ura Namba & Dotonbori Hidden Gems",
+      "location": "Osaka (Chuo-ku)",
+      "emoji": "🌃",
+      "must_do": 0,
+      "highlights": [
+        {
+          "name": "Ura Namba alleyways",
+          "url": "https://www.osaka-info.jp/en/search/detail/T0000057.html"
+        },
+        {
+          "name": "Hozen-ji Temple",
+          "url": "http://houzenji.jp/"
+        },
+        {
+          "name": "Dotonbori",
+          "url": "https://www.dotonbori.or.jp/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Ura Namba exploration",
+          "url": "https://www.osaka-info.jp/en/search/detail/T0000057.html"
+        },
+        {
+          "name": "Dotonbori canal walk",
+          "url": "https://www.dotonbori.or.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Ura Namba hidden izakayas",
+          "url": "https://tabelog.com/osaka/A2701/A270106/"
+        },
+        {
+          "name": "Hozen-ji Temple",
+          "url": "http://houzenji.jp/"
+        },
+        {
+          "name": "Local ramen spot",
+          "url": "https://tabelog.com/osaka/A2701/A270106/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Hole-in-wall izakaya discovery",
+          "url": "https://tabelog.com/osaka/A2701/A270106/"
+        },
+        {
+          "name": "Kani Doraku crab dinner",
+          "url": "https://douraku.co.jp/"
+        },
+        {
+          "name": "Kushikatsu stands",
+          "url": "https://tabelog.com/osaka/A2701/A270106/"
+        }
+      ],
+      "transport_tips": "Subway to Namba station",
+      "reddit_note": "Last Osaka day = RELAX mode. Less rushing, more living. Wander and chat with locals.",
+      "activities": "Slow wandering, sunset viewing, local food discovery, meaningful conversations"
+    },
+    {
+      "date": "Nov 16",
+      "day": 12,
+      "title": "Return to Tokyo Finale",
+      "location": "Tokyo (Final Night)",
+      "emoji": "🗼",
+      "must_do": 0,
+      "highlights": [
+        {
+          "name": "Zojo-ji Temple",
+          "url": "https://www.zojoji.or.jp/"
+        },
+        {
+          "name": "Tokyo Tower",
+          "url": "https://www.tokyotower.co.jp/"
+        },
+        {
+          "name": "Toyokawa Inari Tokyo Annex",
+          "url": "http://www.toyokawainari-tokyo.jp/"
+        }
+      ],
+      "must_see": [
+        {
+          "name": "Zojo-ji Temple",
+          "url": "https://www.zojoji.or.jp/"
+        },
+        {
+          "name": "Tokyo Tower views",
+          "url": "https://www.tokyotower.co.jp/"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Toyokawa Inari Tokyo Annex",
+          "url": "http://www.toyokawainari-tokyo.jp/"
+        },
+        {
+          "name": "Shinjuku local spots",
+          "url": "https://tabelog.com/tokyo/A1304/A130401/"
+        }
+      ],
+      "food_spots": [
+        {
+          "name": "Favorite meal from trip",
+          "url": "https://tabelog.com/"
+        },
+        {
+          "name": "New izakaya discovery",
+          "url": "https://tabelog.com/tokyo/A1304/A130401/"
+        }
+      ],
+      "transport_tips": "Shinkansen Shin-Osaka to Tokyo (2h 30min)",
+      "reddit_note": "Full circle - back where started! Skip multiple observation decks. Just enjoy Tokyo.",
+      "activities": "Temple walk, reflection, meaningful dinner, thank you to the city"
+    }
+  ],
+  "essential_links": {
+    "booking": [
+      {
+        "name": "JR Pass booking",
+        "url": "https://www.jrpass.com/"
+      },
+      {
+        "name": "Shibuya Sky tickets",
+        "url": "https://www.shibuya-sky.jp/"
+      },
+      {
+        "name": "Kaiyukan Aquarium tickets",
+        "url": "https://www.kaiyukan.com/"
+      },
+      {
+        "name": "teamLab Biovortex Kyoto tickets",
+        "url": "https://www.teamlab.art/e/kyoto/"
+      }
+    ],
+    "apps_to_download": [
+      {
+        "name": "Navitime",
+        "url": "https://www.navitime.co.jp/"
+      },
+      {
+        "name": "Google Translate",
+        "url": "https://translate.google.com/"
+      },
+      {
+        "name": "Google Lens",
+        "url": "https://lens.google.com/"
+      },
+      {
+        "name": "Tabelog (restaurant reviews)",
+        "url": "https://tabelog.com/"
+      },
+      {
+        "name": "Suica IC Card",
+        "url": "https://www.suica.or.jp/"
+      },
+      {
+        "name": "ICOCA Card",
+        "url": "https://www.icoca.or.jp/"
+      }
+    ],
+    "travel_resources": [
+      {
+        "name": "r/JapanTravel subreddit",
+        "url": "https://www.reddit.com/r/JapanTravel/"
+      },
+      {
+        "name": "r/JapanTravelTips subreddit",
+        "url": "https://www.reddit.com/r/JapanTravelTips/"
+      },
+      {
+        "name": "Japan National Tourism Organization",
+        "url": "https://www.jnto.go.jp/"
+      },
+      {
+        "name": "Tokyo Official Travel Guide",
+        "url": "https://www.gotokyo.org/"
+      },
+      {
+        "name": "Osaka Official Travel Guide",
+        "url": "https://www.osaka-info.jp/"
+      },
+      {
+        "name": "Kyoto Official Travel Guide",
+        "url": "https://www.kyoto.travel/"
+      }
+    ]
+  }
+}
